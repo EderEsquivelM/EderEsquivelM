@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi! I'm Eder</p>
 
 ## 📝 About Me
-Hi! I'm Eder, a Computer Science student passionate about backend development, software development, and problem solving. I enjoy learning new technologies and building efficient software.
+I'm , a Computer Science student passionate about backend development, software development, and problem solving. I enjoy learning new technologies and building efficient software.
 
 ## 📫 Contact 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ederesquivelm/)
