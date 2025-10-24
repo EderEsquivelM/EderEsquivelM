@@ -36,3 +36,4 @@ I'm , a Computer Science student passionate about backend development, software 
 
 ## 🌱 Currently Learning
 - SpringBoot
+- HTML and CSS
