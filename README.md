@@ -30,8 +30,8 @@ I'm , a Computer Science student passionate about backend development, software 
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
-![Eder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EderEsquivelM&show_icons=true&bg_color=00000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EderEsquivelM&layout=compact&bg_color=00000000)
+![Eder's GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EderEsquivelM&show_icons=true) <br>
+![Top Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=EderEsquivelM&layout=compact)
 
 
 
