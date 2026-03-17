@@ -23,6 +23,7 @@ I'm , a Computer Science student passionate about backend development, software 
 
 **Frameworks & Libraries:**  
 ![Java Swing](https://img.shields.io/badge/Java_Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
